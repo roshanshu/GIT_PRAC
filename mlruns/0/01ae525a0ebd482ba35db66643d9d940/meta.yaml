@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/01ae525a0ebd482ba35db66643d9d940/artifacts
+end_time: 1753083763307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01ae525a0ebd482ba35db66643d9d940
+run_name: overjoyed-sloth-928
+run_uuid: 01ae525a0ebd482ba35db66643d9d940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753083762991
+status: 3
+tags: []
+user_id: Office
