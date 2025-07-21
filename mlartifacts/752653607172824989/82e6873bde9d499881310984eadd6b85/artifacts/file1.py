@@ -23,7 +23,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 max_depth = 10
 n_estimators = 50
 
-mlflow.set_experiment("NITP_FDP_03")
+mlflow.set_experiment("NITP_FDP_02")
 with mlflow.start_run():
     # Train classifier
     clf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=random_state)
